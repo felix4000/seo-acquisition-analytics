@@ -1,0 +1,361 @@
+date,keyword,landing_page,impressions,clicks,ctr,position,organic_sessions,organic_revenue
+2025-08-01,4x4 suspension kit,/category/transmission,1920,222,0.1161,7.4,216,1093.05
+2025-09-01,4x4 suspension kit,/category/transmission,657,37,0.0578,4.9,35,28.15
+2025-10-01,4x4 suspension kit,/category/transmission,1474,160,0.109,7.2,151,4187.04
+2025-11-01,4x4 suspension kit,/category/transmission,1245,62,0.0505,8.0,56,126.5
+2025-12-01,4x4 suspension kit,/category/transmission,2275,215,0.0946,7.4,199,1807.56
+2026-01-01,4x4 suspension kit,/category/transmission,2295,327,0.1425,5.6,330,2384.05
+2026-02-01,4x4 suspension kit,/category/transmission,528,91,0.1731,7.0,91,2460.04
+2026-03-01,4x4 suspension kit,/category/transmission,1865,375,0.2012,5.6,384,225.82
+2026-04-01,4x4 suspension kit,/category/transmission,2184,467,0.2141,5.5,420,920.38
+2026-05-01,4x4 suspension kit,/category/transmission,2964,676,0.2281,5.7,686,2743.02
+2026-06-01,4x4 suspension kit,/category/transmission,2948,413,0.1401,7.6,382,559.13
+2026-07-01,4x4 suspension kit,/category/transmission,3565,496,0.1394,5.1,496,978.09
+2025-08-01,brake pads 4x4,/category/transmission,949,76,0.0807,16.5,79,494.05
+2025-09-01,brake pads 4x4,/category/transmission,362,28,0.078,15.8,27,965.91
+2025-10-01,brake pads 4x4,/category/transmission,2328,166,0.0714,16.2,170,3393.19
+2025-11-01,brake pads 4x4,/category/transmission,1145,47,0.0413,13.1,42,941.73
+2025-12-01,brake pads 4x4,/category/transmission,1689,111,0.0661,15.1,114,1258.96
+2026-01-01,brake pads 4x4,/category/transmission,301,6,0.0215,13.5,5,802.58
+2026-02-01,brake pads 4x4,/category/transmission,2242,53,0.0239,11.5,53,956.01
+2026-03-01,brake pads 4x4,/category/transmission,2375,238,0.1004,13.0,245,23.71
+2026-04-01,brake pads 4x4,/category/transmission,2807,291,0.104,11.4,292,517.58
+2026-05-01,brake pads 4x4,/category/transmission,891,74,0.0832,10.7,72,889.83
+2026-06-01,brake pads 4x4,/category/transmission,2767,363,0.1314,9.9,348,1558.04
+2026-07-01,brake pads 4x4,/category/transmission,1059,108,0.1021,10.8,100,927.36
+2025-08-01,off road led lights,/category/filters,2182,89,0.0411,20.4,82,639.32
+2025-09-01,off road led lights,/category/filters,2370,128,0.0542,19.9,124,761.8
+2025-10-01,off road led lights,/category/filters,1033,47,0.0463,17.8,47,430.33
+2025-11-01,off road led lights,/category/filters,1890,97,0.0515,18.4,101,4006.96
+2025-12-01,off road led lights,/category/filters,2294,125,0.0547,20.2,126,1143.99
+2026-01-01,off road led lights,/category/filters,1202,30,0.0257,19.4,28,20.94
+2026-02-01,off road led lights,/category/filters,2188,44,0.0202,17.6,42,30.46
+2026-03-01,off road led lights,/category/filters,715,47,0.0671,17.1,48,5599.71
+2026-04-01,off road led lights,/category/filters,936,64,0.0693,17.4,65,388.24
+2026-05-01,off road led lights,/category/filters,2417,91,0.0381,18.8,85,2540.27
+2026-06-01,off road led lights,/category/filters,2511,138,0.0553,16.0,126,93.12
+2026-07-01,off road led lights,/category/filters,2293,112,0.0492,16.3,105,3939.99
+2025-08-01,oem brake discs,/category/transmission,717,25,0.0361,23.5,25,3217.9
+2025-09-01,oem brake discs,/category/transmission,1013,26,0.0259,20.2,24,1312.91
+2025-10-01,oem brake discs,/category/transmission,1006,59,0.0587,19.7,55,14.02
+2025-11-01,oem brake discs,/category/transmission,2373,111,0.0469,19.3,111,462.42
+2025-12-01,oem brake discs,/category/transmission,902,29,0.033,20.1,27,810.0
+2026-01-01,oem brake discs,/category/transmission,1647,87,0.0529,19.6,83,955.86
+2026-02-01,oem brake discs,/category/transmission,1820,86,0.0475,20.5,86,548.05
+2026-03-01,oem brake discs,/category/transmission,785,54,0.0691,16.6,53,51.96
+2026-04-01,oem brake discs,/category/transmission,1247,84,0.0674,19.1,76,1383.31
+2026-05-01,oem brake discs,/category/transmission,1084,25,0.0233,19.3,25,1151.83
+2026-06-01,oem brake discs,/category/transmission,929,18,0.02,19.3,18,515.97
+2026-07-01,oem brake discs,/category/transmission,2114,125,0.0596,19.7,126,60.05
+2025-08-01,suv shock absorbers,/category/engine-parts,1460,30,0.0212,24.8,30,8096.41
+2025-09-01,suv shock absorbers,/category/engine-parts,306,11,0.0369,25.1,9,1020.14
+2025-10-01,suv shock absorbers,/category/engine-parts,2065,100,0.0486,26.9,92,2187.78
+2025-11-01,suv shock absorbers,/category/engine-parts,1722,40,0.0237,24.8,40,933.76
+2025-12-01,suv shock absorbers,/category/engine-parts,975,13,0.0135,26.0,12,68.44
+2026-01-01,suv shock absorbers,/category/engine-parts,306,9,0.0307,26.0,9,574.61
+2026-02-01,suv shock absorbers,/category/engine-parts,1944,95,0.049,24.7,98,598.4
+2026-03-01,suv shock absorbers,/category/engine-parts,2153,18,0.0086,27.2,17,2826.36
+2026-04-01,suv shock absorbers,/category/engine-parts,649,26,0.0405,26.3,25,1647.08
+2026-05-01,suv shock absorbers,/category/engine-parts,1599,66,0.0416,26.2,59,499.68
+2026-06-01,suv shock absorbers,/category/engine-parts,2041,68,0.0337,25.1,69,5325.86
+2026-07-01,suv shock absorbers,/category/engine-parts,446,17,0.0395,25.9,15,601.66
+2025-08-01,pickup truck lift kit,/category/cooling-system,1945,41,0.0212,25.0,38,9831.57
+2025-09-01,pickup truck lift kit,/category/cooling-system,1726,82,0.0476,24.3,78,8628.33
+2025-10-01,pickup truck lift kit,/category/cooling-system,1800,28,0.0157,24.5,26,329.14
+2025-11-01,pickup truck lift kit,/category/cooling-system,1286,26,0.0205,25.5,24,581.68
+2025-12-01,pickup truck lift kit,/category/cooling-system,2135,33,0.0155,24.6,32,1032.34
+2026-01-01,pickup truck lift kit,/category/cooling-system,1219,22,0.0187,26.6,20,1692.0
+2026-02-01,pickup truck lift kit,/category/cooling-system,1490,60,0.0406,25.2,59,1164.57
+2026-03-01,pickup truck lift kit,/category/cooling-system,2058,73,0.0359,24.0,67,5409.9
+2026-04-01,pickup truck lift kit,/category/cooling-system,1164,53,0.0461,25.3,54,1996.57
+2026-05-01,pickup truck lift kit,/category/cooling-system,425,3,0.0084,26.0,2,369.61
+2026-06-01,pickup truck lift kit,/category/cooling-system,1676,78,0.0468,23.7,74,172.22
+2026-07-01,pickup truck lift kit,/category/cooling-system,259,2,0.0115,25.0,1,1808.47
+2025-08-01,4x4 air filter,/category/filters,1723,29,0.0172,14.2,26,267.56
+2025-09-01,4x4 air filter,/category/filters,1917,35,0.0185,13.2,33,2403.43
+2025-10-01,4x4 air filter,/category/filters,716,15,0.0215,14.3,14,577.83
+2025-11-01,4x4 air filter,/category/filters,1386,100,0.0726,15.5,92,613.95
+2025-12-01,4x4 air filter,/category/filters,2799,143,0.0511,12.3,136,16.84
+2026-01-01,4x4 air filter,/category/filters,1612,128,0.0795,13.0,126,1872.54
+2026-02-01,4x4 air filter,/category/filters,690,49,0.071,13.6,45,186.45
+2026-03-01,4x4 air filter,/category/filters,429,7,0.0179,10.9,7,2298.95
+2026-04-01,4x4 air filter,/category/filters,694,52,0.0763,9.2,53,1050.02
+2026-05-01,4x4 air filter,/category/filters,1816,153,0.0844,11.4,159,2378.81
+2026-06-01,4x4 air filter,/category/filters,1873,128,0.0684,12.2,115,1360.02
+2026-07-01,4x4 air filter,/category/filters,2865,315,0.1102,10.8,329,133.43
+2025-08-01,engine cooling radiator,/category/engine-parts,2285,136,0.0597,15.7,129,2250.35
+2025-09-01,engine cooling radiator,/category/engine-parts,935,64,0.0695,18.2,59,112.22
+2025-10-01,engine cooling radiator,/category/engine-parts,2020,110,0.0547,16.8,111,1010.34
+2025-11-01,engine cooling radiator,/category/engine-parts,1707,49,0.029,17.9,48,293.38
+2025-12-01,engine cooling radiator,/category/engine-parts,930,28,0.0308,17.0,26,2164.63
+2026-01-01,engine cooling radiator,/category/engine-parts,1838,68,0.0371,17.2,63,3762.28
+2026-02-01,engine cooling radiator,/category/engine-parts,2407,113,0.0473,18.7,117,1252.73
+2026-03-01,engine cooling radiator,/category/engine-parts,2264,130,0.0578,16.9,120,1161.62
+2026-04-01,engine cooling radiator,/category/engine-parts,887,57,0.0653,17.1,55,2239.22
+2026-05-01,engine cooling radiator,/category/engine-parts,1170,96,0.0827,16.2,89,7.9
+2026-06-01,engine cooling radiator,/category/engine-parts,1384,84,0.0611,19.1,78,3874.43
+2026-07-01,engine cooling radiator,/category/engine-parts,1307,46,0.0358,20.0,43,341.15
+2025-08-01,transmission parts 4x4,/category/braking-system,1805,28,0.0159,16.5,27,6425.02
+2025-09-01,transmission parts 4x4,/category/braking-system,1889,86,0.0459,18.1,88,2067.06
+2025-10-01,transmission parts 4x4,/category/braking-system,2350,49,0.0211,18.7,47,2308.33
+2025-11-01,transmission parts 4x4,/category/braking-system,562,39,0.0699,16.2,35,1655.96
+2025-12-01,transmission parts 4x4,/category/braking-system,1529,91,0.06,15.9,84,989.54
+2026-01-01,transmission parts 4x4,/category/braking-system,850,58,0.0692,14.9,53,1314.84
+2026-02-01,transmission parts 4x4,/category/braking-system,1853,127,0.069,16.9,118,73.69
+2026-03-01,transmission parts 4x4,/category/braking-system,2248,107,0.0479,16.3,98,1516.92
+2026-04-01,transmission parts 4x4,/category/braking-system,1542,54,0.0352,18.7,53,1525.77
+2026-05-01,transmission parts 4x4,/category/braking-system,928,10,0.0113,17.5,9,3440.4
+2026-06-01,transmission parts 4x4,/category/braking-system,1157,37,0.0328,18.8,34,1092.68
+2026-07-01,transmission parts 4x4,/category/braking-system,936,45,0.049,18.0,45,124.51
+2025-08-01,suv body kit,/category/lighting,1543,84,0.0547,21.9,75,566.98
+2025-09-01,suv body kit,/category/lighting,1105,36,0.0335,19.9,36,1653.37
+2025-10-01,suv body kit,/category/lighting,445,16,0.0372,21.0,15,424.13
+2025-11-01,suv body kit,/category/lighting,1037,57,0.0555,23.2,55,510.63
+2025-12-01,suv body kit,/category/lighting,1488,82,0.0553,20.7,77,2663.62
+2026-01-01,suv body kit,/category/lighting,1295,76,0.0593,20.7,79,1361.49
+2026-02-01,suv body kit,/category/lighting,1133,38,0.0339,19.6,36,1101.72
+2026-03-01,suv body kit,/category/lighting,1883,65,0.035,21.2,58,594.62
+2026-04-01,suv body kit,/category/lighting,950,26,0.0279,18.7,26,2036.05
+2026-05-01,suv body kit,/category/lighting,1185,55,0.0471,20.7,54,526.21
+2026-06-01,suv body kit,/category/lighting,1943,68,0.0352,20.0,66,2071.83
+2026-07-01,suv body kit,/category/lighting,1261,93,0.0745,17.7,84,112.72
+2025-08-01,off road bumper,/category/cooling-system,1969,50,0.0255,11.9,49,3100.49
+2025-09-01,off road bumper,/category/cooling-system,3044,66,0.022,10.2,63,1073.69
+2025-10-01,off road bumper,/category/cooling-system,585,27,0.0478,12.4,28,895.14
+2025-11-01,off road bumper,/category/cooling-system,823,22,0.0269,13.0,22,1464.47
+2025-12-01,off road bumper,/category/cooling-system,2909,344,0.1184,11.3,350,1517.88
+2026-01-01,off road bumper,/category/cooling-system,840,26,0.032,8.5,26,219.62
+2026-02-01,off road bumper,/category/cooling-system,2419,246,0.102,11.2,255,2189.24
+2026-03-01,off road bumper,/category/cooling-system,1941,91,0.0471,10.3,95,500.75
+2026-04-01,off road bumper,/category/cooling-system,3054,124,0.0407,8.1,112,3650.13
+2026-05-01,off road bumper,/category/cooling-system,2967,137,0.0463,9.8,125,2641.16
+2026-06-01,off road bumper,/category/cooling-system,1030,20,0.0196,10.3,18,659.24
+2026-07-01,off road bumper,/category/cooling-system,1601,41,0.0258,7.8,38,2557.37
+2025-08-01,4x4 wheel bearing,/category/body-and-exterior,1788,52,0.0292,24.1,49,683.45
+2025-09-01,4x4 wheel bearing,/category/body-and-exterior,2067,52,0.0254,20.8,51,165.04
+2025-10-01,4x4 wheel bearing,/category/body-and-exterior,521,22,0.0428,23.0,22,5067.32
+2025-11-01,4x4 wheel bearing,/category/body-and-exterior,2203,82,0.0372,24.5,76,1639.8
+2025-12-01,4x4 wheel bearing,/category/body-and-exterior,817,32,0.0392,25.6,32,944.51
+2026-01-01,4x4 wheel bearing,/category/body-and-exterior,2359,32,0.0137,21.8,30,786.52
+2026-02-01,4x4 wheel bearing,/category/body-and-exterior,373,19,0.0531,21.5,17,608.91
+2026-03-01,4x4 wheel bearing,/category/body-and-exterior,1661,86,0.0518,22.5,82,6183.89
+2026-04-01,4x4 wheel bearing,/category/body-and-exterior,1328,37,0.0281,23.1,34,224.48
+2026-05-01,4x4 wheel bearing,/category/body-and-exterior,1777,33,0.019,22.1,30,586.34
+2026-06-01,4x4 wheel bearing,/category/body-and-exterior,928,33,0.0364,23.9,31,1030.69
+2026-07-01,4x4 wheel bearing,/category/body-and-exterior,260,12,0.0498,21.8,12,1008.25
+2025-08-01,brake caliper suv,/category/lighting,1622,287,0.1772,6.3,295,988.67
+2025-09-01,brake caliper suv,/category/lighting,1288,247,0.1924,5.9,242,299.83
+2025-10-01,brake caliper suv,/category/lighting,552,66,0.12,6.0,68,242.84
+2025-11-01,brake caliper suv,/category/lighting,1272,149,0.1179,6.2,149,456.07
+2025-12-01,brake caliper suv,/category/lighting,1854,96,0.0523,6.0,96,3814.64
+2026-01-01,brake caliper suv,/category/lighting,3074,336,0.1094,5.5,311,186.07
+2026-02-01,brake caliper suv,/category/lighting,2546,241,0.0949,5.9,247,2196.84
+2026-03-01,brake caliper suv,/category/lighting,1839,483,0.2628,4.9,445,2197.63
+2026-04-01,brake caliper suv,/category/lighting,477,57,0.1205,3.8,58,2573.84
+2026-05-01,brake caliper suv,/category/lighting,920,223,0.2435,4.2,203,3376.38
+2026-06-01,brake caliper suv,/category/lighting,1710,216,0.1267,4.0,212,473.38
+2026-07-01,brake caliper suv,/category/lighting,3693,923,0.25,5.2,880,394.44
+2025-08-01,4x4 fog lights,/category/suspension,2057,58,0.0285,24.7,56,971.57
+2025-09-01,4x4 fog lights,/category/suspension,705,13,0.0191,24.1,12,477.7
+2025-10-01,4x4 fog lights,/category/suspension,723,26,0.0372,22.5,23,2055.67
+2025-11-01,4x4 fog lights,/category/suspension,1084,48,0.0448,23.6,44,1567.14
+2025-12-01,4x4 fog lights,/category/suspension,758,37,0.0497,22.6,37,3224.96
+2026-01-01,4x4 fog lights,/category/suspension,2129,117,0.0554,23.6,112,133.94
+2026-02-01,4x4 fog lights,/category/suspension,649,25,0.0399,22.9,25,3824.78
+2026-03-01,4x4 fog lights,/category/suspension,269,8,0.0317,23.5,7,538.52
+2026-04-01,4x4 fog lights,/category/suspension,1797,43,0.024,22.7,44,1046.44
+2026-05-01,4x4 fog lights,/category/suspension,2252,88,0.0392,24.8,92,895.43
+2026-06-01,4x4 fog lights,/category/suspension,290,7,0.0242,23.8,6,2215.41
+2026-07-01,4x4 fog lights,/category/suspension,296,9,0.0325,24.2,8,845.74
+2025-08-01,truck suspension spring,/category/lighting,2113,42,0.0199,16.9,39,4458.15
+2025-09-01,truck suspension spring,/category/lighting,1155,72,0.0629,19.1,69,3611.01
+2025-10-01,truck suspension spring,/category/lighting,1171,14,0.0122,18.2,13,3190.29
+2025-11-01,truck suspension spring,/category/lighting,990,66,0.0676,16.2,63,114.65
+2025-12-01,truck suspension spring,/category/lighting,821,46,0.0562,17.2,42,2987.01
+2026-01-01,truck suspension spring,/category/lighting,2311,45,0.0197,16.6,45,2359.91
+2026-02-01,truck suspension spring,/category/lighting,1544,61,0.0397,18.7,59,169.47
+2026-03-01,truck suspension spring,/category/lighting,477,5,0.0123,16.6,5,176.24
+2026-04-01,truck suspension spring,/category/lighting,520,42,0.0822,16.2,41,165.42
+2026-05-01,truck suspension spring,/category/lighting,866,56,0.0653,14.6,58,17.68
+2026-06-01,truck suspension spring,/category/lighting,2586,64,0.0251,16.4,58,1233.75
+2026-07-01,truck suspension spring,/category/lighting,2705,145,0.0537,14.8,134,5624.73
+2025-08-01,4x4 clutch kit,/category/lighting,360,11,0.0318,10.6,11,895.63
+2025-09-01,4x4 clutch kit,/category/lighting,1242,116,0.0939,11.4,114,1206.92
+2025-10-01,4x4 clutch kit,/category/lighting,2184,168,0.0773,10.9,168,5336.95
+2025-11-01,4x4 clutch kit,/category/lighting,2411,152,0.0635,10.9,158,456.94
+2025-12-01,4x4 clutch kit,/category/lighting,1644,203,0.1238,9.7,207,3032.49
+2026-01-01,4x4 clutch kit,/category/lighting,1306,36,0.028,10.9,36,1226.06
+2026-02-01,4x4 clutch kit,/category/lighting,2983,284,0.0953,10.8,295,1307.07
+2026-03-01,4x4 clutch kit,/category/lighting,1037,64,0.0619,9.4,59,651.92
+2026-04-01,4x4 clutch kit,/category/lighting,1941,253,0.1306,10.1,256,1278.9
+2026-05-01,4x4 clutch kit,/category/lighting,1240,39,0.0321,9.6,37,117.8
+2026-06-01,4x4 clutch kit,/category/lighting,1181,220,0.1867,6.7,201,2243.69
+2026-07-01,4x4 clutch kit,/category/lighting,2357,165,0.0701,10.1,165,519.63
+2025-08-01,oem oil filter suv,/category/transmission,411,23,0.0573,11.1,23,3390.02
+2025-09-01,oem oil filter suv,/category/transmission,801,28,0.035,13.4,29,711.31
+2025-10-01,oem oil filter suv,/category/transmission,540,15,0.0286,13.7,13,239.02
+2025-11-01,oem oil filter suv,/category/transmission,1639,106,0.065,11.3,109,1846.16
+2025-12-01,oem oil filter suv,/category/transmission,386,18,0.0467,11.9,17,278.89
+2026-01-01,oem oil filter suv,/category/transmission,2440,51,0.021,12.1,52,2173.08
+2026-02-01,oem oil filter suv,/category/transmission,1460,31,0.0216,15.6,32,5343.86
+2026-03-01,oem oil filter suv,/category/transmission,388,11,0.0302,11.4,10,2345.19
+2026-04-01,oem oil filter suv,/category/transmission,741,24,0.0337,13.2,21,35.21
+2026-05-01,oem oil filter suv,/category/transmission,2290,55,0.0241,13.7,56,1420.68
+2026-06-01,oem oil filter suv,/category/transmission,1991,183,0.092,13.4,176,1843.76
+2026-07-01,oem oil filter suv,/category/transmission,506,27,0.0549,14.4,27,2707.33
+2025-08-01,off road winch mount,/category/engine-parts,1687,30,0.018,23.5,27,89.38
+2025-09-01,off road winch mount,/category/engine-parts,703,8,0.0123,26.5,7,1014.53
+2025-10-01,off road winch mount,/category/engine-parts,1900,121,0.064,21.0,122,1188.83
+2025-11-01,off road winch mount,/category/engine-parts,2230,81,0.0367,25.3,83,287.35
+2025-12-01,off road winch mount,/category/engine-parts,2115,101,0.0479,26.5,96,603.74
+2026-01-01,off road winch mount,/category/engine-parts,1344,55,0.0412,24.6,51,899.89
+2026-02-01,off road winch mount,/category/engine-parts,1617,67,0.0414,24.2,65,2777.78
+2026-03-01,off road winch mount,/category/engine-parts,482,15,0.0332,25.4,14,4111.32
+2026-04-01,off road winch mount,/category/engine-parts,813,12,0.0155,24.5,11,1535.44
+2026-05-01,off road winch mount,/category/engine-parts,540,6,0.0117,27.9,5,779.25
+2026-06-01,off road winch mount,/category/engine-parts,240,10,0.042,28.8,9,454.54
+2026-07-01,off road winch mount,/category/engine-parts,412,10,0.0251,27.5,10,6242.46
+2025-08-01,4x4 exhaust system,/category/transmission,1797,84,0.0472,24.5,79,6321.25
+2025-09-01,4x4 exhaust system,/category/transmission,1327,75,0.0568,23.8,76,4016.91
+2025-10-01,4x4 exhaust system,/category/transmission,967,7,0.0077,24.9,6,2388.83
+2025-11-01,4x4 exhaust system,/category/transmission,2212,106,0.0481,24.7,102,611.38
+2025-12-01,4x4 exhaust system,/category/transmission,355,10,0.0295,25.0,10,2633.94
+2026-01-01,4x4 exhaust system,/category/transmission,1197,25,0.0216,24.2,23,815.16
+2026-02-01,4x4 exhaust system,/category/transmission,1234,17,0.0143,25.8,16,613.67
+2026-03-01,4x4 exhaust system,/category/transmission,368,17,0.0481,23.9,16,2118.55
+2026-04-01,4x4 exhaust system,/category/transmission,1706,82,0.0485,20.7,77,128.74
+2026-05-01,4x4 exhaust system,/category/transmission,1837,103,0.0564,23.3,104,77.21
+2026-06-01,4x4 exhaust system,/category/transmission,608,6,0.0114,22.4,5,921.46
+2026-07-01,4x4 exhaust system,/category/transmission,2004,59,0.0295,20.7,55,914.97
+2025-08-01,suv timing belt,/category/transmission,977,48,0.0494,23.4,49,3505.07
+2025-09-01,suv timing belt,/category/transmission,234,7,0.0334,23.7,6,209.15
+2025-10-01,suv timing belt,/category/transmission,2276,100,0.0441,24.6,101,204.06
+2025-11-01,suv timing belt,/category/transmission,1780,46,0.0262,23.8,44,247.42
+2025-12-01,suv timing belt,/category/transmission,1526,77,0.0508,24.4,74,46.82
+2026-01-01,suv timing belt,/category/transmission,1667,12,0.0075,24.4,12,115.44
+2026-02-01,suv timing belt,/category/transmission,283,10,0.0384,26.4,9,1672.59
+2026-03-01,suv timing belt,/category/transmission,1076,17,0.0159,25.5,16,876.14
+2026-04-01,suv timing belt,/category/transmission,1747,71,0.0408,23.6,64,2236.85
+2026-05-01,suv timing belt,/category/transmission,1450,29,0.0204,23.9,30,7608.92
+2026-06-01,suv timing belt,/category/transmission,843,14,0.0176,26.4,13,1668.79
+2026-07-01,suv timing belt,/category/transmission,1684,79,0.0473,26.5,81,80.3
+2025-08-01,pickup mud flaps,/category/body-and-exterior,2016,37,0.0184,22.7,37,171.29
+2025-09-01,pickup mud flaps,/category/body-and-exterior,1361,55,0.041,22.6,57,3301.46
+2025-10-01,pickup mud flaps,/category/body-and-exterior,454,11,0.0248,21.8,10,1162.76
+2025-11-01,pickup mud flaps,/category/body-and-exterior,1361,68,0.0507,21.6,62,2701.82
+2025-12-01,pickup mud flaps,/category/body-and-exterior,1083,38,0.0351,21.5,34,3012.27
+2026-01-01,pickup mud flaps,/category/body-and-exterior,339,6,0.0194,17.5,6,4073.7
+2026-02-01,pickup mud flaps,/category/body-and-exterior,294,20,0.0696,18.3,18,4640.95
+2026-03-01,pickup mud flaps,/category/body-and-exterior,2370,149,0.0633,18.9,140,1255.17
+2026-04-01,pickup mud flaps,/category/body-and-exterior,1009,37,0.0368,18.4,34,646.84
+2026-05-01,pickup mud flaps,/category/body-and-exterior,2272,106,0.0468,20.5,106,5066.37
+2026-06-01,pickup mud flaps,/category/body-and-exterior,2026,34,0.0168,18.8,32,1229.53
+2026-07-01,pickup mud flaps,/category/body-and-exterior,2265,31,0.014,16.9,28,103.0
+2025-08-01,4x4 differential parts,/category/body-and-exterior,911,35,0.0394,15.1,32,1596.54
+2025-09-01,4x4 differential parts,/category/body-and-exterior,1863,36,0.0197,15.5,35,1374.09
+2025-10-01,4x4 differential parts,/category/body-and-exterior,2046,120,0.0591,13.5,115,3507.29
+2025-11-01,4x4 differential parts,/category/body-and-exterior,517,23,0.0459,13.9,22,1642.41
+2025-12-01,4x4 differential parts,/category/body-and-exterior,1748,46,0.0268,13.4,42,665.86
+2026-01-01,4x4 differential parts,/category/body-and-exterior,2313,53,0.0233,14.1,54,5254.71
+2026-02-01,4x4 differential parts,/category/body-and-exterior,1747,69,0.0397,14.4,70,2508.77
+2026-03-01,4x4 differential parts,/category/body-and-exterior,577,56,0.0988,13.3,58,1543.79
+2026-04-01,4x4 differential parts,/category/body-and-exterior,1200,23,0.0197,13.1,21,537.59
+2026-05-01,4x4 differential parts,/category/body-and-exterior,1218,50,0.0415,12.5,46,725.34
+2026-06-01,4x4 differential parts,/category/body-and-exterior,2019,108,0.0538,12.5,112,1719.34
+2026-07-01,4x4 differential parts,/category/body-and-exterior,1026,20,0.0204,13.4,19,115.86
+2025-08-01,suv radiator fan,/category/cooling-system,2782,157,0.0567,12.3,145,460.06
+2025-09-01,suv radiator fan,/category/cooling-system,3085,146,0.0476,10.4,138,1940.89
+2025-10-01,suv radiator fan,/category/cooling-system,2194,118,0.0542,9.7,110,1014.26
+2025-11-01,suv radiator fan,/category/cooling-system,616,12,0.0208,9.7,12,798.47
+2025-12-01,suv radiator fan,/category/cooling-system,732,90,0.1233,8.8,91,254.72
+2026-01-01,suv radiator fan,/category/cooling-system,809,117,0.1453,7.2,115,904.4
+2026-02-01,suv radiator fan,/category/cooling-system,2196,43,0.02,9.5,44,2284.07
+2026-03-01,suv radiator fan,/category/cooling-system,1536,33,0.0216,8.4,32,475.43
+2026-04-01,suv radiator fan,/category/cooling-system,2689,410,0.1526,7.5,423,8.4
+2026-05-01,suv radiator fan,/category/cooling-system,526,37,0.0712,10.6,34,1712.47
+2026-06-01,suv radiator fan,/category/cooling-system,1524,121,0.0795,7.1,116,5580.61
+2026-07-01,suv radiator fan,/category/cooling-system,1537,254,0.1658,8.0,257,1447.82
+2025-08-01,off road rock sliders,/category/transmission,504,35,0.0709,16.5,34,198.13
+2025-09-01,off road rock sliders,/category/transmission,1071,30,0.0288,16.8,28,599.82
+2025-10-01,off road rock sliders,/category/transmission,1356,37,0.0274,16.8,38,3136.4
+2025-11-01,off road rock sliders,/category/transmission,2166,107,0.0497,16.7,111,410.55
+2025-12-01,off road rock sliders,/category/transmission,1462,109,0.075,16.2,103,1451.25
+2026-01-01,off road rock sliders,/category/transmission,1617,91,0.0564,14.7,88,799.19
+2026-02-01,off road rock sliders,/category/transmission,1044,94,0.0907,13.9,92,361.37
+2026-03-01,off road rock sliders,/category/transmission,2005,143,0.0716,18.2,139,2603.78
+2026-04-01,off road rock sliders,/category/transmission,547,25,0.0469,14.8,24,2106.23
+2026-05-01,off road rock sliders,/category/transmission,2551,120,0.0473,15.8,125,1680.46
+2026-06-01,off road rock sliders,/category/transmission,278,20,0.072,17.1,20,418.18
+2026-07-01,off road rock sliders,/category/transmission,321,4,0.0153,16.6,3,159.72
+2025-08-01,4x4 tie rod end,/category/body-and-exterior,354,8,0.0252,15.1,7,1331.33
+2025-09-01,4x4 tie rod end,/category/body-and-exterior,1248,103,0.0832,14.9,108,1251.18
+2025-10-01,4x4 tie rod end,/category/body-and-exterior,2597,191,0.0737,16.4,183,323.73
+2025-11-01,4x4 tie rod end,/category/body-and-exterior,1852,66,0.036,15.0,65,89.79
+2025-12-01,4x4 tie rod end,/category/body-and-exterior,1456,16,0.0116,17.9,16,130.52
+2026-01-01,4x4 tie rod end,/category/body-and-exterior,1141,72,0.0634,14.4,73,7645.66
+2026-02-01,4x4 tie rod end,/category/body-and-exterior,1957,160,0.0822,12.8,165,2373.81
+2026-03-01,4x4 tie rod end,/category/body-and-exterior,777,44,0.0578,16.0,42,3956.3
+2026-04-01,4x4 tie rod end,/category/body-and-exterior,1958,137,0.0703,16.4,138,336.53
+2026-05-01,4x4 tie rod end,/category/body-and-exterior,1969,151,0.0768,16.7,154,5014.53
+2026-06-01,4x4 tie rod end,/category/body-and-exterior,1735,100,0.0582,16.5,93,238.71
+2026-07-01,4x4 tie rod end,/category/body-and-exterior,659,52,0.08,14.0,50,1103.47
+2025-08-01,brake rotor pickup,/category/filters,1137,26,0.0237,29.7,23,2745.45
+2025-09-01,brake rotor pickup,/category/filters,553,11,0.0203,25.1,10,667.65
+2025-10-01,brake rotor pickup,/category/filters,1700,14,0.0083,26.1,13,857.81
+2025-11-01,brake rotor pickup,/category/filters,2092,80,0.0384,26.3,80,212.76
+2025-12-01,brake rotor pickup,/category/filters,604,23,0.0389,28.0,23,203.42
+2026-01-01,brake rotor pickup,/category/filters,1023,44,0.0431,24.3,42,1498.92
+2026-02-01,brake rotor pickup,/category/filters,1739,22,0.0127,24.7,22,1745.71
+2026-03-01,brake rotor pickup,/category/filters,1452,15,0.0109,24.0,13,2329.65
+2026-04-01,brake rotor pickup,/category/filters,774,26,0.0342,23.7,26,1261.65
+2026-05-01,brake rotor pickup,/category/filters,305,10,0.0332,24.3,10,1609.55
+2026-06-01,brake rotor pickup,/category/filters,913,11,0.0122,25.4,10,21.11
+2026-07-01,brake rotor pickup,/category/filters,1945,47,0.0242,22.8,43,274.43
+2025-08-01,suv steering rack,/category/filters,304,6,0.0199,15.9,5,6504.76
+2025-09-01,suv steering rack,/category/filters,2698,150,0.0559,13.9,149,122.58
+2025-10-01,suv steering rack,/category/filters,1195,50,0.0425,13.1,45,1761.35
+2025-11-01,suv steering rack,/category/filters,772,87,0.1137,9.4,84,300.4
+2025-12-01,suv steering rack,/category/filters,1132,28,0.0255,13.8,27,1956.24
+2026-01-01,suv steering rack,/category/filters,858,54,0.0633,12.5,49,1898.59
+2026-02-01,suv steering rack,/category/filters,1923,118,0.0614,14.5,107,413.85
+2026-03-01,suv steering rack,/category/filters,1034,21,0.0212,13.2,21,487.32
+2026-04-01,suv steering rack,/category/filters,1108,63,0.0577,12.4,58,1649.51
+2026-05-01,suv steering rack,/category/filters,2939,268,0.0914,11.0,246,766.85
+2026-06-01,suv steering rack,/category/filters,1331,61,0.0462,13.7,59,335.55
+2026-07-01,suv steering rack,/category/filters,447,33,0.0747,12.7,29,2040.39
+2025-08-01,4x4 cv joint,/category/cooling-system,868,18,0.0217,24.1,18,259.65
+2025-09-01,4x4 cv joint,/category/cooling-system,875,33,0.038,22.0,29,3001.82
+2025-10-01,4x4 cv joint,/category/cooling-system,400,5,0.0136,24.1,4,1121.22
+2025-11-01,4x4 cv joint,/category/cooling-system,1605,17,0.0109,23.0,16,173.26
+2025-12-01,4x4 cv joint,/category/cooling-system,1283,19,0.0153,22.7,19,1836.96
+2026-01-01,4x4 cv joint,/category/cooling-system,1119,43,0.039,22.9,39,1135.65
+2026-02-01,4x4 cv joint,/category/cooling-system,1194,24,0.0202,22.7,24,548.89
+2026-03-01,4x4 cv joint,/category/cooling-system,1744,85,0.0493,23.4,79,851.65
+2026-04-01,4x4 cv joint,/category/cooling-system,1178,49,0.0424,23.3,48,549.51
+2026-05-01,4x4 cv joint,/category/cooling-system,450,26,0.058,21.6,25,473.35
+2026-06-01,4x4 cv joint,/category/cooling-system,552,25,0.047,23.6,25,277.09
+2026-07-01,4x4 cv joint,/category/cooling-system,2188,120,0.0551,23.2,124,698.89
+2025-08-01,off road roof rack,/category/filters,278,4,0.0151,16.6,3,448.22
+2025-09-01,off road roof rack,/category/filters,1226,30,0.025,15.4,30,1783.94
+2025-10-01,off road roof rack,/category/filters,975,53,0.0547,16.1,51,1786.11
+2025-11-01,off road roof rack,/category/filters,675,28,0.0416,13.9,25,1080.76
+2025-12-01,off road roof rack,/category/filters,1124,55,0.049,16.4,56,2333.92
+2026-01-01,off road roof rack,/category/filters,633,28,0.0457,14.9,26,2855.29
+2026-02-01,off road roof rack,/category/filters,332,23,0.0708,15.8,20,1344.59
+2026-03-01,off road roof rack,/category/filters,2659,158,0.0597,14.9,159,1496.34
+2026-04-01,off road roof rack,/category/filters,539,42,0.0784,15.2,43,515.72
+2026-05-01,off road roof rack,/category/filters,2050,26,0.0128,14.6,25,3493.6
+2026-06-01,off road roof rack,/category/filters,2243,79,0.0353,16.9,72,38.0
+2026-07-01,off road roof rack,/category/filters,521,13,0.0264,16.0,11,664.79
+2025-08-01,truck fuel pump,/category/cooling-system,1691,45,0.0271,22.5,45,1984.31
+2025-09-01,truck fuel pump,/category/cooling-system,784,14,0.0182,23.8,14,129.47
+2025-10-01,truck fuel pump,/category/cooling-system,2370,92,0.039,21.3,86,313.79
+2025-11-01,truck fuel pump,/category/cooling-system,1924,103,0.054,20.1,106,1380.13
+2025-12-01,truck fuel pump,/category/cooling-system,301,12,0.0408,20.5,11,1273.28
+2026-01-01,truck fuel pump,/category/cooling-system,649,27,0.0426,21.8,26,2082.87
+2026-02-01,truck fuel pump,/category/cooling-system,2389,135,0.0569,19.1,137,2597.19
+2026-03-01,truck fuel pump,/category/cooling-system,1236,57,0.0465,17.7,57,213.46
+2026-04-01,truck fuel pump,/category/cooling-system,1617,54,0.0338,18.9,50,28.77
+2026-05-01,truck fuel pump,/category/cooling-system,1705,88,0.0522,18.9,84,1814.64
+2026-06-01,truck fuel pump,/category/cooling-system,879,56,0.0643,16.6,56,556.27
+2026-07-01,truck fuel pump,/category/cooling-system,1073,54,0.0505,19.8,55,1525.29
